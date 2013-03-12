@@ -28,20 +28,12 @@ var BudgetLib = {
 
   //IDs used to reference Fusion Tables, where we store our data
   FusionTableApiKey: "AIzaSyAxoKylS0g9p7HuFalideL2etQsEzLCThs",
-<<<<<<< HEAD
-  BUDGET_TABLE_ID: "1UdOEze52V-skslSrkvUoJqYK9DIZNWcHUZiIdHA", //main budget table with expenditures/appropriations per department per year //1eC4r9Qy86Pbs-mXGMGVF_yqOUlv4rat7GsikBrA
-  FUND_DESCRIPTION_TABLE_ID: "eC4r9Qy86Pbs-mXGMGVF_yqOUlv4rat7GsikBrA",
-  
-  title: "Asheville City Budget",
-  startYear: 1993,
-=======
   BUDGET_TABLE_ID: "1UdOEze52V-skslSrkvUoJqYK9DIZNWcHUZiIdHA", //main budget table with expenditures/appropriations per department per year 1gVKonUNcQF8gmU1o7FEF_deJX-WVslU_ed_fsr4
   FUND_DESCRIPTION_TABLE_ID: "1eC4r9Qy86Pbs-mXGMGVF_yqOUlv4rat7GsikBrA",
   OFFICER_DESCRIPTION_TABLE_ID: "1uSDhUpVbk3c7m0E7iT87LP8GfPk6vnczh-y64sI",
   
   title: "Asheville City Budget",
   startYear: 2007,
->>>>>>> e70f65ebec2e341dcc4ae09b2d65f633297e1688
   endYear: 2012,
   loadYear: 2012, //viewing year
   fundView: "", //viewing fund
@@ -419,3 +411,4 @@ var BudgetLib = {
     }
   }
 }
+
