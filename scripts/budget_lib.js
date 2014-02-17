@@ -35,7 +35,7 @@ var BudgetLib = {
   title: "Asheville City Budget",
   startYear: 2007,
   endYear: 2012,
-  loadYear: 2012, //viewing year
+  loadYear: 2013, //viewing year
   fundView: "", //viewing fund
   officerView: "", //viewing control officer
   viewByOfficer: false, //flag to switch between department and control officer view
